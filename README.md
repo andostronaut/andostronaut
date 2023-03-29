@@ -20,7 +20,7 @@
   </samp>
 </p>
 
-<p align="center">
+<p>
  <a href="https://iamando.medium.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="iamando" />
  </a>
