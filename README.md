@@ -65,7 +65,6 @@
 ## OPEN SOURCE
 
 [![Workfloose](https://github-readme-stats.vercel.app/api/pin/?username=iamando&repo=workfloose&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamando/workfloose)
-[![Yaml extra](https://github-readme-stats.vercel.app/api/pin/?username=iamando&repo=yaml-extra&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamando/yaml-extra)
 [![Weal](https://github-readme-stats.vercel.app/api/pin/?username=iamando&repo=weal&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamando/weal)
 
 <p align="left">
