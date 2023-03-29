@@ -73,7 +73,7 @@
 
 <br/>
 
-## EXTRAS
+## METRICS
 
 <p align="center">
   <a href="https://github.com/iamando">
