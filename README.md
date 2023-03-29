@@ -1,5 +1,5 @@
 <a href="https://komarev.com/ghpvc/?username=iamando">
-  <img align="right" src="https://komarev.com/ghpvc/?username=iamando&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=iamando&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitor" />
 </a>
 
 <!-- Intro  -->
