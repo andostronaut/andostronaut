@@ -2,7 +2,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=iamando&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitor" />
 </a>
 
-<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="#">iamando</a></b>
@@ -35,9 +34,8 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="iamando" />
  </a>
 </p>
-<br />
 
-## SKILLS
+<br/>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -61,8 +59,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-## METRICS
 
 <p align="center">
   <a href="https://github.com/iamando">
