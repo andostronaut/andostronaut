@@ -72,8 +72,8 @@
 </p>
 
 <br/>
-<hr/>
-<br/>
+
+## EXTRAS
 
 <p align="center">
   <a href="https://github.com/iamando">
