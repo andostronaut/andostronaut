@@ -11,7 +11,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a software engineer and devops enthusiast 」
+    「 i am a software engineer and devops enthusiast 」
     <br>
     <br>
   </samp>
@@ -55,15 +55,3 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamando&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api/?username=iamando&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- <img
-            alt="iamando's Github Stats"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamando&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-            height="px"
-            width="49.5%"/>
-
-        <img
-            alt="iamando's Top Languages"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamando&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-            height="220px"
-            width="49.5%"/> -->
