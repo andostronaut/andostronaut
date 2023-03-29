@@ -37,7 +37,7 @@
 </p>
 <br />
 
-## SKILLS
+## SKILLSx`
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -62,11 +62,11 @@
 
 <br/>
 
-## Top Open Source -
+## OPEN SOURCE
 
-[![Workfloose](https://github-readme-stats.vercel.app/api/pin/?username=iamando&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamando/workfloose)
-[![Yaml extra](https://github-readme-stats.vercel.app/api/pin/?username=iamando&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamando/yaml-extra)
-[![Weal](https://github-readme-stats.vercel.app/api/pin/?username=iamando&repo=iamando&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamando/weal)
+[![Workfloose](https://github-readme-stats.vercel.app/api/pin/?username=iamando&repo=workfloose&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamando/workfloose)
+[![Yaml extra](https://github-readme-stats.vercel.app/api/pin/?username=iamando&repo=yaml-extra&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamando/yaml-extra)
+[![Weal](https://github-readme-stats.vercel.app/api/pin/?username=iamando&repo=weal&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamando/weal)
 
 <p align="left">
   <a href="https://github.com/iamando?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
