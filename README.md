@@ -55,18 +55,17 @@
 <br/>
 
 <div align="center"> 
-    <a href="https://github.com/iamando">
-        <img 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamando&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+        <!-- <img 
             alt="iamando's Github Stats" 
             src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamando&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
-            height="350px" 
+            height="px" 
             width="49.5%"/>
-    </a>
-    <a href="https://github.com/iamando">
+   
         <img 
             alt="iamando's Top Languages" 
             src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamando&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
             height="220px" 
-            width="49.5%"/>
-    </a>
-</a>
+            width="49.5%"/> -->
+ 
+</div>
