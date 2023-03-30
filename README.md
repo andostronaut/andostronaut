@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="iamando's banner" />
+</p>
+
 <a href="https://komarev.com/ghpvc/?username=iamando">
   <img align="right" 
     src="https://komarev.com/ghpvc/?username=iamando&label=Visitors&color=0e75b6&style=for-the-badge" 
