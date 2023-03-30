@@ -3,14 +3,14 @@
 </p>
 
 <p align="right">
-  <a href="https://www.buymeacoffee.com/iamando">
-    <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40" />
-  </a>
   <a href="https://komarev.com/ghpvc/?username=iamando">
     <img align="right" 
       src="https://komarev.com/ghpvc/?username=iamando&label=Visitors&color=0e75b6&style=for-the-badge" 
       alt="Profile visitor" 
     />
+  </a>
+  <a href="https://www.buymeacoffee.com/iamando">
+    <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40" />
   </a>
 </p>
 
