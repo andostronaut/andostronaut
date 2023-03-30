@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="iamando's banner" />
+  <img src="https://res.cloudinary.com/iamando/image/upload/v1680179964/banner_pyhwcm.png" alt="iamando's banner" />
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=iamando">
