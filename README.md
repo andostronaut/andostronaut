@@ -25,7 +25,7 @@
 </p>
 
 <a href="https://www.buymeacoffee.com/iamando">
-  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40" />
 </a>
 
 <p>
