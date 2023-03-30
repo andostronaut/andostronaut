@@ -30,7 +30,7 @@
   </a>
 
    <a href="https://www.ko-fi.com/iamando">
-    <img src="	https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" height="40" />
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" height="40" />
   </a>
 </p>
 
@@ -124,6 +124,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![DroneCI](https://img.shields.io/badge/Drone_CI-212121?style=for-the-badge&logo=drone&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br/>
 
