@@ -31,8 +31,6 @@
 </p>
 
 <br>
-<br>
-<br>
 
 <p>
  <a href="https://iamando.medium.com" target="blank">
