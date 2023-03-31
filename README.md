@@ -53,7 +53,7 @@
 
 <br>
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,go,react,vue,angular,linux,terraform,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,go,react,vue,angular,linux,adonis,nest,docker,bash)](https://skillicons.dev)
 
 <br>
 
