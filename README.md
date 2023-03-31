@@ -51,7 +51,11 @@
  </a>
 </p>
 
-<br/>
+<br>
+
+[![Skills](https://skillicons.dev/icons?i=js,ts,go,react,vue,angular,linux,terraform,docker)](https://skillicons.dev)
+
+<br>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
