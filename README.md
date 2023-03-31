@@ -129,12 +129,3 @@
 <br/>
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api/?username=iamando&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/iamando) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamando&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/iamando) -->
-
-<div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/iamando">
-    <img src="https://github-readme-stats.vercel.app/api/?username=iamando&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/iamando" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamando&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866" />
-  </a>
-</div>
