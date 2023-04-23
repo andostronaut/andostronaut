@@ -53,7 +53,7 @@
 
 <br>
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,vue,react,linux,express,graphql,nestjs,docker,bash,kubernetes,adonis,angular,apollo,gcp,aws,firebase,git,githubactions,gitlab,nginx,netlify,heroku,prisma,pug,py,reactivex,redux,rollupjs,mysql,sequelize,solidity,solidjs,vercel,vite,webpack,mongodb)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,vue,react,linux,express,graphql,nestjs,docker,bash,kubernetes,adonis,angular,apollo,gcp,aws,firebase,git,githubactions,gitlab,nginx,netlify,heroku,prisma,pug,py,reactivex,redux,rollupjs,mysql,sequelize,solidity,solidjs,vercel,vite,webpack,mongodb,wasm,redis,styledcomponents,tailwind,jest)](https://skillicons.dev)
 
 <!-- <br>
 
