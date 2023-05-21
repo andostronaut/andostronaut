@@ -55,6 +55,6 @@
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,vue,react,linux,express,graphql,nestjs,docker,bash,kubernetes,adonis,angular,apollo,gcp,aws,firebase,git,githubactions,gitlab,nginx,netlify,heroku,prisma,pug,py,reactivex,redux,rollupjs,mysql,sequelize,solidity,solidjs,vercel,vite,webpack,mongodb,wasm,redis,styledcomponents,tailwind,jest,deno)](https://skillicons.dev)
 
-<!-- <br>
+<br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/?username=iamando&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/iamando) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamando&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/iamando) -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api/?username=iamando&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/iamando) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamando&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/iamando)
