@@ -9,15 +9,9 @@ This repository is a collection of my personal projects, code samples, and exper
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,vue,react,linux,express,graphql,nestjs,docker,bash,kubernetes,adonis,angular,apollo,gcp,aws,firebase,git,githubactions,gitlab,nginx,netlify,heroku,prisma,pug,py,reactivex,redux,rollupjs,mysql,sequelize,solidity,solidjs,vercel,vite,webpack,mongodb,wasm,redis,styledcomponents,tailwind,jest,deno)](https://skillicons.dev)
 
-## Holopin
-
 [![Holopin](https://holopin.me/iamando)](https://holopin.io/@iamando)
 
-## Stats
-
-| <a href="https://github.com/andostronaut"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andostronaut&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ando's github stats" /></a> | <a href="https://github.com/andostronaut"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andostronaut&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-## LICENSE
+| ![Ando's GitHub stats](https://github-readme-stats.vercel.app/api?username=andostronaut&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andostronaut&layout=compact&theme=buefy&hide_border=true) |
+| --- | --- |
 
 [MIT](LICENSE)
