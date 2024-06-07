@@ -15,8 +15,8 @@ This repository is a collection of my personal projects, code samples, and exper
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/?username=andostronaut&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/andostronaut)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andostronaut&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/andostronaut)
+| <a href="https://github.com/andostronaut"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andostronaut&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ando's github stats" /></a> | <a href="https://github.com/andostronaut"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andostronaut&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## LICENSE
 
