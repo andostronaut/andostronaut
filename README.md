@@ -9,9 +9,9 @@ This repository is a collection of my personal projects, code samples, and exper
 
 A Bit About Me
 
-- 🔭 Currently working on: **[Drowser](https://github.com/andostronaut/drowser)**, **[Drowser Studio](https://github.com/kinotio/drowser-studio)**
+- 🔭 Currently working on: **[Drowser](https://github.com/andostronaut/drowser)**, **[Drowser Studio](https://github.com/kinotio/drowser-studio)**, **[Gelda](https://github.com/kinotio/gelda)**
 - 🌱 Learning: **Rust**, **Zig**, **Python**, **Go**
-- 💬 Ask me about: **TypeScript**, **JavaScript**
+- 💬 Ask me about: **TypeScript**
 - 📫 How to reach me: **<andostronaut@gmail.com>**
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,vue,react,linux,express,graphql,nestjs,docker,bash,kubernetes,adonis,angular,apollo,gcp,aws,firebase,git,githubactions,gitlab,nginx,netlify,heroku,prisma,pug,py,reactivex,redux,rollupjs,mysql,sequelize,solidity,solidjs,vercel,vite,webpack,mongodb,wasm,redis,styledcomponents,tailwind,jest,deno)](https://skillicons.dev)
