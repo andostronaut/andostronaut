@@ -10,16 +10,12 @@ This repository is a collection of my personal projects, code samples, and exper
 A Bit About Me
 
 - 🔭 Currently working on: **[Drowser](https://github.com/andostronaut/drowser)**, **[Drowser Studio](https://github.com/kinotio/drowser-studio)**, **[Gelda](https://github.com/kinotio/gelda)**
-- 🌱 Learning: **Rust**, **Zig**, **Python**, **Go**
-- 💬 Ask me about: **TypeScript**
-- 📫 How to reach me: **<andostronaut@gmail.com>**
+- 🌱 Learning: **Building something useful**
+- 📫 How to reach me: **X: @andostronaut**
+
+[![Holopin](https://holopin.me/andostronaut)](https://holopin.io/@andostronaut)
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,vue,react,linux,express,graphql,nestjs,docker,bash,kubernetes,adonis,angular,apollo,gcp,aws,firebase,git,githubactions,gitlab,nginx,netlify,heroku,prisma,pug,py,reactivex,redux,rollupjs,mysql,sequelize,solidity,solidjs,vercel,vite,webpack,mongodb,wasm,redis,styledcomponents,tailwind,jest,deno)](https://skillicons.dev)
-
-[![Holopin](https://holopin.me/iamando)](https://holopin.io/@iamando)
-
-| ![Ando's GitHub stats](https://github-readme-stats.vercel.app/api?username=andostronaut&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andostronaut&layout=compact&theme=buefy&hide_border=true) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 
 [![Drowser](https://github-readme-stats.vercel.app/api/pin/?username=andostronaut&repo=drowser)](https://github.com/andostronaut/drowser)
 [![Cocli](https://github-readme-stats.vercel.app/api/pin/?username=andostronaut&repo=cocli)](https://github.com/andostronaut/cocli)
