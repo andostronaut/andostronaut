@@ -1,11 +1,11 @@
 # Hey Folks 👋🏻
 
-![Header](./src/header_.png)
+[![Holopin](https://holopin.me/andostronaut)](https://holopin.io/@andostronaut)
 
 A Bit About Me
 
-- 🔭 Currently working on: **[Drowser](https://github.com/andostronaut/drowser)**, **[Drowser Studio](https://github.com/kinotio/drowser-studio)**, **[Gelda](https://github.com/kinotio/gelda)**
-- 🌱 Learning: **To Building something useful 🚀**
+- 🔭 Currently: Building stuff at **[kinotio.io](https://github.com/kinotiodotio)**
+- 🔨 Building: **[Drowser](https://github.com/andostronaut/drowser)**, **[Drowser Studio](https://drowser.kinotio.io)**, **[Cocli](https://github.com/andostronaut/cocli)**
+- 📖 Blogging: **[andostronaut/blog](https://github.com/andostronaut/blog)**
 - 📫 How to reach me: **X: @andostronaut**
 
-[![Holopin](https://holopin.me/andostronaut)](https://holopin.io/@andostronaut)
