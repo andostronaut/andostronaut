@@ -4,8 +4,7 @@
 
 A Bit About Me
 
-- 🔭 Currently: Building stuff at **[kinotio.io](https://github.com/kinotiodotio)**
-- 🔨 Building: **[Drowser](https://github.com/andostronaut/drowser)**, **[Drowser Studio](https://drowser.kinotio.io)**, **[Cocli](https://github.com/andostronaut/cocli)**
+- 🚀 Currently: Building **[kinotio](https://github.com/kinotiodotdev)** **[tillu](https://github.com/tilludotco)**
 - 📖 Blogging: **[andostronaut/blog](https://andostronaut.com/blog)**
 - 📫 How to reach me: **X: @andostronaut**
 
